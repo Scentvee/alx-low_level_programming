@@ -1,1 +1,1 @@
-Preprocessor
+function that concatenates two strings
